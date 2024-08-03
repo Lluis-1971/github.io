@@ -71,3 +71,9 @@ figure img{
  figure:hover{
   border-color: darkorange;
 }
+
+.container{
+  display: grid;
+}
+
+

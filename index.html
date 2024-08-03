@@ -8,8 +8,15 @@
     <title>Mi Sitio Web</title>
   </head>
   <body>
-    <header id="cabecera">
-      <h1>Bienvenidos a mi Sitio Web Personal</h1>
+    <header id="cabecera" class="container">
+      <div class="item photo">
+        <img class="profile" src="images/my-logo.png" alt="Mi foto de perfil">
+      </div>
+      <h1 class="item welcome">Bienvenidos a mi Sitio Web Personal</h1>
+      <div class="item buttons-area">
+         <button class="login" onclick="window.location.href='login.html'">Iniciar Sesión</button>
+         <button class="signin" onclick="window.location.href='sign-in.html'">Registrarse</button>
+      </div>
     </header>
 
     <nav id="navegador">
