@@ -1,5 +1,4 @@
 body{
-  background-image: url(images/fondo.jpg);
   font-family: serif;
   font-size: 14px;
   color: darkblue;
@@ -8,8 +7,6 @@ body{
     width: 90%;
     margin: 2px auto;
     height: 100px;
-    background-image: url(images/header.png);
-    background-size: cover;
 }
 
 #cabecera h1{
