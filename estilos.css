@@ -73,4 +73,7 @@ figure img{
   display: grid;
 }
 
-
+.photo{
+  grid-template-areas: photo;
+  border-radius: 50px;
+}
