@@ -84,3 +84,19 @@ figure img{
 .welcome{
   grid-template-areas: banner;
 }
+
+.login{
+  grid-template-areas: login;
+  padding: 5px;
+  border-radius: 10px;
+  background-color: orangered;
+  color: white;
+}
+
+.signin{
+  grid-template-areas: signin;
+  padding: 5px;
+  border-radius: 10px;
+  background-color: orangered;
+  color: white;
+}
