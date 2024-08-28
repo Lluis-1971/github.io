@@ -71,9 +71,16 @@ figure img{
 
 .container{
   display: grid;
+  grid-template: "photo banner banner banner"
+	"photo banner banner banner"
+	". login signin .";
 }
 
 .photo{
   grid-template-areas: photo;
   border-radius: 50px;
+}
+
+.welcome{
+  grid-template-areas: banner;
 }
