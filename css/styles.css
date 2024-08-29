@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: darkslategrey;
+}
+.header{
+    background-color: darkmagenta;
+    margin: 5px;
+    padding: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: pink;
+}
