@@ -71,22 +71,22 @@ figure img{
 
 .container{
   display: grid;
-  grid-template: "photo banner banner banner"
+  grid-template-areas: "photo banner banner banner"
 	"photo banner banner banner"
 	". login signin .";
 }
 
 .photo{
-  grid-template-areas: photo;
+  grid-area: photo;
   border-radius: 50px;
 }
 
 .welcome{
-  grid-template-areas: banner;
+  grid-area: banner;
 }
 
 .login{
-  grid-template-areas: login;
+  grid-area: login;
   padding: 5px;
   border-radius: 10px;
   background-color: orangered;
@@ -94,7 +94,7 @@ figure img{
 }
 
 .signin{
-  grid-template-areas: signin;
+  grid-area: signin;
   padding: 5px;
   border-radius: 10px;
   background-color: orangered;
