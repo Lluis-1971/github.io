@@ -78,6 +78,8 @@ figure img{
 
 .photo{
   grid-area: photo;
+  justify-content: center;
+  align-content: center;
 }
 
 .profile{
