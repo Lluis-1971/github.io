@@ -78,6 +78,9 @@ figure img{
 
 .photo{
   grid-area: photo;
+}
+
+.profile{
   border-radius: 50px;
 }
 
