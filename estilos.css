@@ -85,9 +85,9 @@ figure img{
 }
 .welcome{
   background-color: black;
-  font-size: x-large;
+
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  color: orangered;
+  color: saddlebrown;
   grid-area: banner;
 }
 
