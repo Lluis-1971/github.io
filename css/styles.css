@@ -36,3 +36,21 @@ body{
     padding: 5px;
     margin: 0 5px 0 5px;
 }
+
+.login-btn{
+    grid-area: login;
+    color: whitesmoke;
+    background-color: orangered;
+    padding: 5px;
+    border: solid 5px whitesmoke;
+    border-radius: 10px;
+}
+
+.signin-btn{
+    grid-area: signin;
+    color: whitesmoke;
+    background-color: orangered;
+    padding: 5px;
+    border: solid 5px whitesmoke;
+    border-radius: 10px;
+}
