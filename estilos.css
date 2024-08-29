@@ -84,6 +84,7 @@ figure img{
 
 .welcome{
   background-color: black;
+  font-size: x-large;
   grid-area: banner;
 }
 
