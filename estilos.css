@@ -78,12 +78,12 @@ figure img{
 
 .photo{
   grid-area: photo;
-  justify-content: center;
-  align-content: center;
 }
 
 .profile{
   border-radius: 50px;
+  justify-content: center;
+  align-content: center;
 }
 .welcome{
   background-color: black;
