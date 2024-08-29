@@ -77,11 +77,12 @@ figure img{
 }
 
 .photo{
-  background-color: black;
   grid-area: photo;
-  border-radius: 50px;
 }
 
+.profile{
+  border-radius: 50px;
+}
 .welcome{
   background-color: black;
   font-size: x-large;
