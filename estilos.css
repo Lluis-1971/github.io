@@ -73,7 +73,7 @@ figure img{
   display: grid;
   grid-template-areas: "photo banner banner banner"
 	"photo banner banner banner"
-	". login signin .";
+	".login signin.";
 }
 
 .photo{
