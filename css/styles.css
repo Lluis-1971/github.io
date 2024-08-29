@@ -5,7 +5,15 @@
 body{
     background-color: darkslategrey;
 }
+
+.container{
+    display: grid;
+}
 .header{
+    display: grid;
+    grid-template-areas: "photo banner banner banner"
+    "photo banner banner banner"
+    ". login signin .";
     background-color: darkmagenta;
     margin: 5px;
     padding: 5px;
