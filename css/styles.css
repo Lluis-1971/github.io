@@ -20,3 +20,19 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: pink;
 }
+
+.profile-photo{
+    grid-area: photo;
+    align-items: center;
+    justify-items: center;
+    border-radius: 50px;
+}
+
+.title{
+    grid-area: banner;
+    color: salmon;
+    border: solid 5px salmon;
+    background-color: firebrick;
+    padding: 5px;
+    margin: 0 5px 0 5px;
+}
