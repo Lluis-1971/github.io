@@ -83,8 +83,8 @@ figure img{
 
 .profile{
   border-radius: 50px;
-  justify-content: center;
-  align-content: center;
+  align-items: stretch;
+  justify-items: stretch;
 }
 .welcome{
   background-color: black;
