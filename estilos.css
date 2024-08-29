@@ -83,6 +83,7 @@ figure img{
 }
 
 .welcome{
+  background-color: black;
   grid-area: banner;
 }
 
