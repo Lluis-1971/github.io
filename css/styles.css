@@ -9,6 +9,11 @@ body{
 .container{
     display: grid;
 }
+
+.item{
+    align-content: center;
+    justify-content: center;
+}
 .header{
     display: grid;
     grid-template-areas: "photo banner banner banner"
